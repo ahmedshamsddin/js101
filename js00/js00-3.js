@@ -10,8 +10,6 @@ function ia_greet(name) {
     // }
 }
 
-ia_greet('Ibtikar Volunteer');
-
 // Test case 1: ia_greet('Ibtikar Volunteer');
 // Expected output: Hello, Ibtikar Volunteer!
 

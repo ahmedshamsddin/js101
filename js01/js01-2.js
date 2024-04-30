@@ -3,8 +3,6 @@ function ia_isPositiveInteger(string) {
     return number > 0 && number % 1 === 0;
 }
 
-console.log(ia_isPositiveInteger("0102e"));
-
 // Test case 1: ia_isPositiveInteger("0102e");
 // Expected output: false
 

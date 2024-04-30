@@ -7,12 +7,6 @@ class ia_User {
     }
 }
 
-const u1 = new ia_User("ibtikar")
-const u2 = new ia_User("ali")
-const u3 = new ia_User("ahmad")
-
-console.log(ia_User.numOfUsers); // 3
-
 // Test case:
 // const u1 = new ia_User("ibtikar")
 // const u2 = new ia_User("ali")

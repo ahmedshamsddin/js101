@@ -12,8 +12,6 @@ function ia_factorize (number) {
     return factors;
 }
 
-console.log(ia_factorize(-1));
-
 // في الحل  while التأكد من استخدام  
 
 // Test case 1: ia_factorize(12);

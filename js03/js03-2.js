@@ -15,12 +15,6 @@ const ia_sortByPrice = (tickets) => {
     // return tickets.sort((a, b) => a.price - b.price);
 };
 
-console.log(ia_sortByPrice([
-	{to: "Ankara", price: 500}, 
-	{to: "İstanbul", price: 100},
-	{to: "İzmir", price: 450}
-]));
-
 // Test case 1: ia_sortByPrice([{to: "Ankara", price: 500}, {to: "İstanbul", price: 100}, {to: "İzmir", price: 450}]);
 // Expected output: [{to: "İstanbul", price: 100}, {to: "İzmir", price: 450}, {to: "Ankara", price: 500}]
 

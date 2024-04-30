@@ -14,10 +14,6 @@ class ia_Vehicle {
 }
 
 const ia_vehicle = new ia_Vehicle("Toyota", "Camry");
-console.log(ia_vehicle.company);
-console.log(ia_vehicle.model);
-console.log(ia_vehicle.start());
-console.log(ia_vehicle.stop());
 
 //في الحل constructor تأكد من اسمتخدام
 

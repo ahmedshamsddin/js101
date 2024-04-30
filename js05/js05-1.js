@@ -7,10 +7,6 @@ const ia_safeArrayAccess = (array, index) => {
     }
 }
 
-console.log(ia_safeArrayAccess([1, 2, 3], 1)); // 2
-console.log(ia_safeArrayAccess([1, 2, 3], 3)); // ERROR
-console.log(ia_safeArrayAccess([1, 2, 3, 4], 0)); // 1
-
 // try-catch تأكد من استخدام 
 
 // Test case 1: ia_safeArrayAccess([1, 2, 3], 1);

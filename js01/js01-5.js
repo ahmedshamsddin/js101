@@ -27,8 +27,6 @@ function ia_ticketPrice (age, day) {
     return price;
 }
 
-console.log(ia_ticketPrice(39, 6));
-
 // Test case 1: ia_ticketPrice(15, 6);
 // Expected output: 10
 

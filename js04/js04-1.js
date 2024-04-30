@@ -25,11 +25,6 @@ class ia_Car extends ia_Vehicle {
 }
 
 const ia_car = new ia_Car("Fiat", "Doblo", 2015);
-console.log(ia_car.company);
-console.log(ia_car.model);
-console.log(ia_car.year);
-console.log(ia_car.start());
-console.log(ia_car.stop());
 
 // Test case: 
 // console.log(ia_car.company);

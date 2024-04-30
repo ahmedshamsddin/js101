@@ -6,8 +6,6 @@ function ia_oddOrEven(n) {
     }
 }
 
-console.log(ia_oddOrEven(1));
-
 // Test case 1: ia_oddOrEven(101);
 // Expected output: Odd
 

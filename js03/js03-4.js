@@ -23,9 +23,6 @@ const ia_getFrequencies = (array) => {
     // }, {});
 }
 
-console.log(ia_getFrequencies([1, 2, 3, 4, 5, 1, 2, 3, 4, 5]));
-console.log(ia_getFrequencies([true, false, true, false, false]));
-console.log(ia_getFrequencies([]));
 // Test case 1: ia_getFrequencies([1, 2, 3, 4, 5, 1, 2, 3, 4, 5]);
 // Expected output: {1: 2, 2: 2, 3: 2, 4: 2, 5: 2}
 

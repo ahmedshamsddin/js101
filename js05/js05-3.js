@@ -6,9 +6,6 @@ const ia_safeEval = (string) => {
     }
 }
 
-console.log(ia_safeEval("1 + 2")); // 3
-console.log(ia_safeEval("1 + 2 +")); // ERROR
-
 // try-catch تأكد من استخدام 
 
 // Test case 1: ia_safeEval("1 + 2");

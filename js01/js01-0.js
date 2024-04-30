@@ -2,8 +2,6 @@ function ia_hijriCentury(hijriYear) {
     return hijriYear >= 1 ? Math.ceil(hijriYear / 100) : "ERROR";
 }
 
-console.log(ia_hijriCentury(101));
-
 // Test case 1: ia_hijriCentury(101);
 // Expected output: 2
 

@@ -7,9 +7,6 @@ const ia_safeDivide = (a, b) => {
     }
 }
 
-console.log(ia_safeDivide(10, 2)); // 5
-console.log(ia_safeDivide(10, 0)); // ERROR
-
 // try-catch تأكد من استخدام    
 
 // Test case 1: ia_safeDivide(10, 2);

@@ -2,11 +2,6 @@ const ia_objectToArray = (object) => {
     return Object.entries(object);
 }
 
-console.log(ia_objectToArray({a: new Date(), b: 2, c: 3}));
-console.log(ia_objectToArray({name: 'Ahmad', age: 25, city: 'Istanbul'}));
-console.log(ia_objectToArray({}));
-console.log(ia_objectToArray([]));
-
 // Test case 1: ia_objectToArray({a: 1, b: 2, c: 3});
 // Expected output: [['a', 1], ['b', 2], ['c', 3]]
 

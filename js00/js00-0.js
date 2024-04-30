@@ -2,8 +2,6 @@ function ia_putWord (word) {
     console.log(word);
 }
 
-ia_putWord('Hello, Ibtikar Assembly!');
-
 // Test case 1: ia_putWord('Hello, Ibtikar Assembly!');
 // Expected output: Hello, Ibtikar Assembly!
 

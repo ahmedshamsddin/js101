@@ -6,11 +6,6 @@ const ia_parseJSON = (string) => {
     }
 }
 
-console.log(ia_parseJSON('{"a": 1}')); // { a: 1 }
-console.log(ia_parseJSON('{"a": 1')); // ERROR
-console.log(ia_parseJSON('{"name": "John", "age": 30}'));
-console.log(ia_parseJSON("ibtikar assembly"));
-
 // try-catch تأكد من استخدام 
 
 // Test case 1: ia_parseJSON('{"a": 1}');

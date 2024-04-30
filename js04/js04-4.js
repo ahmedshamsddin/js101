@@ -16,11 +16,6 @@ class ia_Calculator {
     }
 }
 
-console.log(ia_Calculator.add(5, 3));
-console.log(ia_Calculator.subtract(5, 3));
-console.log(ia_Calculator.multiply(5, 3));
-console.log(ia_Calculator.divide(6, 2));
-
 // Test case 1: ia_Calculator.add(5, 3);
 // Expected output: 8
 

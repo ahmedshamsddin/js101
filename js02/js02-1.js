@@ -12,10 +12,6 @@ function ia_sumOfEvens(array) {
     return sum;
 }
 
-console.log(ia_sumOfEvens([ [0, -1, -2], [-6, -4, 9], [-8, 1, 19] ]))   
-console.log(ia_sumOfEvens([ [32, 101], [22, 3] ]))
-
-
 // Test case 1: ia_sumOfEvens([ [0, -1, 2], [6, 4, 9], [8, 1, 19] ]);
 // Expected output: 20
 

@@ -11,8 +11,6 @@ function ia_numberOfVowels(word) {
     return count;
 }
 
-console.log(ia_numberOfVowels('Ibtikar Assembly'));
-
 // Test case 1: ia_numberOfVowels('Ibtikar Assembly');
 // Expected output: 5
 

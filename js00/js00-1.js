@@ -6,10 +6,6 @@ var firstName = "Ahmad";
 var lastName = "Shamsddin";
 var age = 20;
 
-ia_putWord(firstName);
-ia_putWord(lastName);
-ia_putWord(age);
-
 // Test case 1: 
 // var firstName = "Ahmad";
 // var lastName = "Shamsddin";
@@ -30,7 +26,8 @@ ia_putWord(age);
 // ia_putWord(firstName);
 // ia_putWord(lastName);
 // ia_putWord(age);
+
 // Expected output:
-// Ibtikar
-// Assembly
+// Hamza
+// Abdullah
 // 30

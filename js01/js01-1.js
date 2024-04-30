@@ -2,8 +2,6 @@ function ia_decimalToBinary(dec) {
     return dec.toString(2);
 }
 
-console.log(ia_decimalToBinary(10));
-
 // Test case 1: ia_decimalToBinary(10);
 // Expected output: 1010
 

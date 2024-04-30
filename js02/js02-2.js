@@ -19,9 +19,6 @@ function ia_mirrorArray(array) {
     // return array.concat(array.slice(0, array.length - 1).reverse());
 }
 
-console.log(ia_mirrorArray([]));
-console.log(ia_mirrorArray([1, 3, 5, 7])); 
-
 // Test case 1: ia_mirrorArray([1, 2, 3, 4, 5]);
 // Expected output: [1, 2, 3, 4, 5, 4, 3, 2, 1]
 
