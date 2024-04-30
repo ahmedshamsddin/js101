@@ -30,3 +30,17 @@ console.log(ia_car.model);
 console.log(ia_car.year);
 console.log(ia_car.start());
 console.log(ia_car.stop());
+
+// Test case: 
+// console.log(ia_car.company);
+// console.log(ia_car.model);
+// console.log(ia_car.year);
+// console.log(ia_car.start());
+// console.log(ia_car.stop());
+
+// Expected output:
+// Fiat
+// Doblo
+// 2015
+// Car Engine Started
+// Engine Stopped

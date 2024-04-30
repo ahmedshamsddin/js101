@@ -28,3 +28,21 @@ function ia_ticketPrice (age, day) {
 }
 
 console.log(ia_ticketPrice(39, 6));
+
+// Test case 1: ia_ticketPrice(15, 6);
+// Expected output: 10
+
+// Test case 2: ia_ticketPrice(16, 3);
+// Expected output: 8
+
+// Test case 3: ia_ticketPrice(27, 7);
+// Expected output: 15
+
+// Test case 4: ia_ticketPrice(39, 4);
+// Expected output: 12
+
+// Test case 5: ia_ticketPrice(99, 2);
+// Expected output: 10
+
+// Test case 6: ia_ticketPrice(75, 7);
+// Expected output: 10

@@ -18,3 +18,17 @@ console.log(ia_vehicle.company);
 console.log(ia_vehicle.model);
 console.log(ia_vehicle.start());
 console.log(ia_vehicle.stop());
+
+//في الحل constructor تأكد من اسمتخدام
+
+// Test case: 
+// console.log(ia_vehicle.company);
+// console.log(ia_vehicle.model);
+// console.log(ia_vehicle.start());
+// console.log(ia_vehicle.stop());
+
+// Expected output:
+// Toyota
+// Camry
+// Engine Started
+// Engine Stopped
