@@ -19,4 +19,4 @@ function ia_isPositiveInteger(string) {
 // Expected output: true
 
 // Test case 6: ia_isPositiveInteger("1.0");
-// Expected output: false
+// Expected output: true
